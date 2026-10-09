@@ -1,0 +1,1730 @@
+{
+  "source": "https://www.census.gov/foreign-trade/schedules/d/distname.html",
+  "retrieved": "2026-10-09",
+  "ports": [
+    {
+      "name": "ABERDEEN-HOQUIAM, WA",
+      "code": "3003"
+    },
+    {
+      "name": "ADDISON AIRPORT, ADDISON, TX",
+      "code": "5584"
+    },
+    {
+      "name": "AGUADILLA, PR",
+      "code": "4901"
+    },
+    {
+      "name": "AIR FRANCE (MACH PLUS), JAMAICA, NY",
+      "code": "1074"
+    },
+    {
+      "name": "AIRBORNE EXPRESS, SEATTLE, WA",
+      "code": "3074"
+    },
+    {
+      "name": "ALBANY, NY",
+      "code": "1002"
+    },
+    {
+      "name": "ALBUQUERQUE, NM",
+      "code": "2407"
+    },
+    {
+      "name": "ALCAN, AK",
+      "code": "3104"
+    },
+    {
+      "name": "ALEXANDRIA BAY, NY",
+      "code": "0708"
+    },
+    {
+      "name": "ALEXANDRIA, VA",
+      "code": "5402"
+    },
+    {
+      "name": "ALGONAC, MI",
+      "code": "3814"
+    },
+    {
+      "name": "ALLENTOWN, PA (LEHIGH VALLEY INTL AIRPT)",
+      "code": "1119"
+    },
+    {
+      "name": "ALPENA, MI",
+      "code": "3843"
+    },
+    {
+      "name": "AMARILLO, TX",
+      "code": "5502"
+    },
+    {
+      "name": "AMBROSE, ND",
+      "code": "3410"
+    },
+    {
+      "name": "ANACORTES, WA",
+      "code": "3010"
+    },
+    {
+      "name": "ANCHORAGE, AK",
+      "code": "3126"
+    },
+    {
+      "name": "ANDRADE, CA",
+      "code": "2502"
+    },
+    {
+      "name": "ANNAPOLIS, MD",
+      "code": "1301"
+    },
+    {
+      "name": "ANTLER, ND",
+      "code": "3413"
+    },
+    {
+      "name": "ARAPAHOE COUNTY PUBLIC AIRPORT, CO",
+      "code": "3384"
+    },
+    {
+      "name": "ASHLAND, WI",
+      "code": "3511"
+    },
+    {
+      "name": "ASHTABULA/CONNEAUT, OH",
+      "code": "4122"
+    },
+    {
+      "name": "ASTORIA, OR",
+      "code": "2901"
+    },
+    {
+      "name": "ATLANTA, GA",
+      "code": "1704"
+    },
+    {
+      "name": "ATLANTIC CITY REGIONAL AIRPORT, NJ",
+      "code": "1182"
+    },
+    {
+      "name": "AUSTIN, TX",
+      "code": "5506"
+    },
+    {
+      "name": "AVION BROKERS, SEATTLE, WA",
+      "code": "3072"
+    },
+    {
+      "name": "BALTIMORE, MD",
+      "code": "1303"
+    },
+    {
+      "name": "BALTIMORE-WASHINGTON INTERNATIONAL AIRPORT, MD",
+      "code": "1305"
+    },
+    {
+      "name": "BANGOR, ME",
+      "code": "0102"
+    },
+    {
+      "name": "BAR HARBOR, ME",
+      "code": "0112"
+    },
+    {
+      "name": "BATH, ME",
+      "code": "0111"
+    },
+    {
+      "name": "BATON ROUGE, LA",
+      "code": "2004"
+    },
+    {
+      "name": "BATTLE CREEK, MI",
+      "code": "3805"
+    },
+    {
+      "name": "BAUDETTE, MN",
+      "code": "3424"
+    },
+    {
+      "name": "BEAUFORT-MOREHEAD CITY,NC",
+      "code": "1511"
+    },
+    {
+      "name": "BEAUMONT, TX",
+      "code": "2104"
+    },
+    {
+      "name": "BEECHER FALLS, VT",
+      "code": "0206"
+    },
+    {
+      "name": "BELLINGHAM, WA",
+      "code": "3005"
+    },
+    {
+      "name": "BINGHAMTON REGIONAL AIRPORT, NY",
+      "code": "0981"
+    },
+    {
+      "name": "BIRMINGHAM, AL",
+      "code": "1904"
+    },
+    {
+      "name": "BLAINE, WA",
+      "code": "3004"
+    },
+    {
+      "name": "BLUE GRASS AIRPORT",
+      "code": "4184"
+    },
+    {
+      "name": "BOCA GRANDE, FL",
+      "code": "1807"
+    },
+    {
+      "name": "BOISE, ID",
+      "code": "2907"
+    },
+    {
+      "name": "BOSTON, MA",
+      "code": "0401"
+    },
+    {
+      "name": "BOUNDARY, WA",
+      "code": "3015"
+    },
+    {
+      "name": "BOZEMAN YELLOWSTONE USER FEE AIRPORT, BELGRADE, MT",
+      "code": "3386"
+    },
+    {
+      "name": "BRIDGEPORT,CT",
+      "code": "0410"
+    },
+    {
+      "name": "BRIDGEWATER, ME",
+      "code": "0127"
+    },
+    {
+      "name": "BROWNSVILLE, TX",
+      "code": "2301"
+    },
+    {
+      "name": "BRUNSWICK, GA",
+      "code": "1701"
+    },
+    {
+      "name": "BUFFALO-NIAGARA FALLS, NY",
+      "code": "0901"
+    },
+    {
+      "name": "BURLINGTON, VT",
+      "code": "0207"
+    },
+    {
+      "name": "BUTTE, MT",
+      "code": "3305"
+    },
+    {
+      "name": "CALAIS, ME",
+      "code": "0115"
+    },
+    {
+      "name": "CALEXICO, CA",
+      "code": "2503"
+    },
+    {
+      "name": "CALEXICO-EAST",
+      "code": "2507"
+    },
+    {
+      "name": "CAMBRIDGE, MD",
+      "code": "1302"
+    },
+    {
+      "name": "CANADIAN LATE RECEIPTS ESTIMATE",
+      "code": "7010"
+    },
+    {
+      "name": "CAPE VINCENT, NY",
+      "code": "0706"
+    },
+    {
+      "name": "CAPITAL REGION INTL AIRPORT, LANSING, MI",
+      "code": "3883"
+    },
+    {
+      "name": "CAPITAN, CA",
+      "code": "2715"
+    },
+    {
+      "name": "CARBURY, ND",
+      "code": "3421"
+    },
+    {
+      "name": "CARQUINEZ STRAIT, CA",
+      "code": "2830"
+    },
+    {
+      "name": "CHAMPLAIN-ROUSES POINT, NY",
+      "code": "0712"
+    },
+    {
+      "name": "CHARLESTON, SC",
+      "code": "1601"
+    },
+    {
+      "name": "CHARLESTON, WV",
+      "code": "1409"
+    },
+    {
+      "name": "CHARLOTTE AMALIE, VI",
+      "code": "5101"
+    },
+    {
+      "name": "CHARLOTTE, NC",
+      "code": "1512"
+    },
+    {
+      "name": "CHATTANOOGA, TN",
+      "code": "2008"
+    },
+    {
+      "name": "CHESTER, PA",
+      "code": "1102"
+    },
+    {
+      "name": "CHICAGO EXECUTIVE AIRPORT, IL",
+      "code": "3983"
+    },
+    {
+      "name": "CHICAGO MIDWAY INT'L AIRPORT, IL",
+      "code": "3910"
+    },
+    {
+      "name": "CHICAGO, IL",
+      "code": "3901"
+    },
+    {
+      "name": "CHRISTIANSTED, VI",
+      "code": "5104"
+    },
+    {
+      "name": "CINCINNATI, OH",
+      "code": "4102"
+    },
+    {
+      "name": "CLAYTON, NY",
+      "code": "0714"
+    },
+    {
+      "name": "CLEVELAND, OH",
+      "code": "4101"
+    },
+    {
+      "name": "COLUMBIA, SC",
+      "code": "1604"
+    },
+    {
+      "name": "COLUMBUS, NM",
+      "code": "2406"
+    },
+    {
+      "name": "COLUMBUS, OH",
+      "code": "4103"
+    },
+    {
+      "name": "COOS BAY, OR",
+      "code": "2903"
+    },
+    {
+      "name": "CORPUS CHRISTI, TX",
+      "code": "5312"
+    },
+    {
+      "name": "CRISFIELD, MD",
+      "code": "1304"
+    },
+    {
+      "name": "CROCKETT, CA",
+      "code": "2815"
+    },
+    {
+      "name": "CRUZ BAY, VI",
+      "code": "5102"
+    },
+    {
+      "name": "DALLAS/FT. WORTH, TX",
+      "code": "5501"
+    },
+    {
+      "name": "DALTON CACHE, AK",
+      "code": "3106"
+    },
+    {
+      "name": "DANVILLE, WA",
+      "code": "3012"
+    },
+    {
+      "name": "DAVENPORT, IA-ROCK ISLAND, IL",
+      "code": "3908"
+    },
+    {
+      "name": "DAYTON, OH",
+      "code": "4104"
+    },
+    {
+      "name": "DAYTONA BEACH INT'L ARPT, FL",
+      "code": "1884"
+    },
+    {
+      "name": "DEL BONITA, MT",
+      "code": "3322"
+    },
+    {
+      "name": "DEL RIO, TX",
+      "code": "2302"
+    },
+    {
+      "name": "DENVER, CO",
+      "code": "3307"
+    },
+    {
+      "name": "DERBY LINE, VT",
+      "code": "0209"
+    },
+    {
+      "name": "DES MOINES, IA",
+      "code": "3513"
+    },
+    {
+      "name": "DETOUR, MI",
+      "code": "3819"
+    },
+    {
+      "name": "DETROIT METRO AIRPORT, DETROIT, MI",
+      "code": "3807"
+    },
+    {
+      "name": "DETROIT, MI",
+      "code": "3801"
+    },
+    {
+      "name": "DHL, JAMAICA, NY",
+      "code": "1072"
+    },
+    {
+      "name": "DHL CINCINNATI, OH",
+      "code": "4197"
+    },
+    {
+      "name": "DHL-HUB, LOS ANGELES, CA",
+      "code": "2791"
+    },
+    {
+      "name": "DHL, SEATTLE, WA",
+      "code": "3073"
+    },
+    {
+      "name": "DHL, MIAMI, FL",
+      "code": "5296"
+    },
+    {
+      "name": "DOUGLAS, AZ",
+      "code": "2601"
+    },
+    {
+      "name": "DULUTH, MN-SUPERIOR, WI",
+      "code": "3510"
+    },
+    {
+      "name": "DUNSEITH, ND",
+      "code": "3422"
+    },
+    {
+      "name": "DURHAM, NC",
+      "code": "1503"
+    },
+    {
+      "name": "EAGLE COUNTY REGIONAL AIRPORT",
+      "code": "3385"
+    },
+    {
+      "name": "EAGLE PASS, TX",
+      "code": "2303"
+    },
+    {
+      "name": "EASTPORT, ID",
+      "code": "3302"
+    },
+    {
+      "name": "EASTPORT, ME",
+      "code": "0103"
+    },
+    {
+      "name": "EL PASO, TX",
+      "code": "2402"
+    },
+    {
+      "name": "EMERY WORLDWIDE",
+      "code": "1073"
+    },
+    {
+      "name": "ERIE, PA",
+      "code": "4106"
+    },
+    {
+      "name": "ESCANABA, MI",
+      "code": "3808"
+    },
+    {
+      "name": "EUREKA, CA",
+      "code": "2802"
+    },
+    {
+      "name": "EVERETT, WA",
+      "code": "3006"
+    },
+    {
+      "name": "FABENS, TX",
+      "code": "2404"
+    },
+    {
+      "name": "FAIRBANKS, AK",
+      "code": "3111"
+    },
+    {
+      "name": "FAJARDO, PR",
+      "code": "4904"
+    },
+    {
+      "name": "FALL RIVER, MA",
+      "code": "0407"
+    },
+    {
+      "name": "FARGO,ND",
+      "code": "3411"
+    },
+    {
+      "name": "FEDEX, MIAMI, FL",
+      "code": "5297"
+    },
+    {
+      "name": "FEDEX ECCF, NEWARK, NJ",
+      "code": "4671"
+    },
+    {
+      "name": "FEDEX, ANCHORAGE, AK",
+      "code": "3195"
+    },
+    {
+      "name": "FEDEX, INDIANAPOLIS, IN",
+      "code": "4198"
+    },
+    {
+      "name": "FEDEX, MEMPHIS, TN",
+      "code": "2095"
+    },
+    {
+      "name": "FEDEX, OAKLAND, CA",
+      "code": "2895"
+    },
+    {
+      "name": "FERNANDINA BEACH, FL",
+      "code": "1805"
+    },
+    {
+      "name": "FERRY, WA",
+      "code": "3013"
+    },
+    {
+      "name": "FORT FAIRFIELD, ME",
+      "code": "0107"
+    },
+    {
+      "name": "FORT KENT, ME",
+      "code": "0110"
+    },
+    {
+      "name": "FORT MYERS AIRPORT, FL",
+      "code": "1822"
+    },
+    {
+      "name": "FORT PIERCE, FL",
+      "code": "5205"
+    },
+    {
+      "name": "FORT WAYNE AIRPORT",
+      "code": "4183"
+    },
+    {
+      "name": "FORTH WORTH ALLIANCE AIRP, TX",
+      "code": "5583"
+    },
+    {
+      "name": "FORTUNA, ND",
+      "code": "3417"
+    },
+    {
+      "name": "FREDERIKSTED, VI",
+      "code": "5105"
+    },
+    {
+      "name": "FREEPORT, TX",
+      "code": "5311"
+    },
+    {
+      "name": "FRESNO, CA",
+      "code": "2803"
+    },
+    {
+      "name": "FRIDAY HARBOR, WA",
+      "code": "3014"
+    },
+    {
+      "name": "FRONT ROYAL, VA",
+      "code": "1410"
+    },
+    {
+      "name": "FRONTIER, WA",
+      "code": "3020"
+    },
+    {
+      "name": "FT. LAUDERDALE INTERNATIONAL AIRPORT, FL",
+      "code": "5210"
+    },
+    {
+      "name": "GALVESTON, TX",
+      "code": "5310"
+    },
+    {
+      "name": "GARY, IN",
+      "code": "3905"
+    },
+    {
+      "name": "GEORGETOWN, SC",
+      "code": "1602"
+    },
+    {
+      "name": "GLOUCESTER CITY, NJ",
+      "code": "1113"
+    },
+    {
+      "name": "GLOUCESTER, MA",
+      "code": "0404"
+    },
+    {
+      "name": "GRAMERCY, LA",
+      "code": "2010"
+    },
+    {
+      "name": "GRAND FORKS, ND",
+      "code": "3427"
+    },
+    {
+      "name": "GRAND HAVEN, MI",
+      "code": "3816"
+    },
+    {
+      "name": "GRAND PORTAGE, MN",
+      "code": "3613"
+    },
+    {
+      "name": "GRAND RAPIDS, MI",
+      "code": "3806"
+    },
+    {
+      "name": "GRANT COUNTY AIRPORT",
+      "code": "3082"
+    },
+    {
+      "name": "GREAT FALLS, MT",
+      "code": "3304"
+    },
+    {
+      "name": "GREEN BAY, WI",
+      "code": "3703"
+    },
+    {
+      "name": "GREENVILLE, MS",
+      "code": "2011"
+    },
+    {
+      "name": "GREENVILLE-SPARTANBRG, SC",
+      "code": "1603"
+    },
+    {
+      "name": "GULFPORT, MS",
+      "code": "1902"
+    },
+    {
+      "name": "HANNAH, ND",
+      "code": "3408"
+    },
+    {
+      "name": "HANSBORO, ND",
+      "code": "3415"
+    },
+    {
+      "name": "HARRISBURG, PA",
+      "code": "1109"
+    },
+    {
+      "name": "HARTFORD. CT",
+      "code": "0411"
+    },
+    {
+      "name": "HAVRE, MT",
+      "code": "3325"
+    },
+    {
+      "name": "HIDALGO, PHARR, TX",
+      "code": "2305"
+    },
+    {
+      "name": "HIGHGATE SPRINGS/ALBURG, VT",
+      "code": "0212"
+    },
+    {
+      "name": "HILO, HI",
+      "code": "3202"
+    },
+    {
+      "name": "HONOLULU INTL AIRPRT, HI",
+      "code": "3205"
+    },
+    {
+      "name": "HONOLULU, HI",
+      "code": "3201"
+    },
+    {
+      "name": "HOULTON, ME",
+      "code": "0106"
+    },
+    {
+      "name": "HOUSTON INTERCONTL AIRP, TX",
+      "code": "5309"
+    },
+    {
+      "name": "HOUSTON, TX",
+      "code": "5301"
+    },
+    {
+      "name": "HUNTSVILLE, AL",
+      "code": "1910"
+    },
+    {
+      "name": "IBC COURIER HUB, FL",
+      "code": "5298"
+    },
+    {
+      "name": "IBC PACIFIC",
+      "code": "2776"
+    },
+    {
+      "name": "INDIANAPOLIS, IN",
+      "code": "4110"
+    },
+    {
+      "name": "INTERNATIONAL FALLS-RANIER, MN",
+      "code": "3604"
+    },
+    {
+      "name": "ITHACA TOMPKINS INTL AIR, ITHACA, NY",
+      "code": "0983"
+    },
+    {
+      "name": "JACKMAN, ME",
+      "code": "0104"
+    },
+    {
+      "name": "JACKSONVILLE, FL",
+      "code": "1803"
+    },
+    {
+      "name": "JFK INTERNATIONAL AIRPORT, NY",
+      "code": "1012"
+    },
+    {
+      "name": "JONESPORT, ME",
+      "code": "0122"
+    },
+    {
+      "name": "JUNEAU, AK",
+      "code": "3101"
+    },
+    {
+      "name": "KAHULUI, HI",
+      "code": "3203"
+    },
+    {
+      "name": "KALAMA, WA",
+      "code": "2909"
+    },
+    {
+      "name": "KALISPELL AIRPORT",
+      "code": "3324"
+    },
+    {
+      "name": "KANSAS CITY, MO",
+      "code": "4501"
+    },
+    {
+      "name": "KENMORE AIR HARBOR, WA",
+      "code": "3018"
+    },
+    {
+      "name": "KETCHIKAN, AK",
+      "code": "3102"
+    },
+    {
+      "name": "KEY WEST, FL",
+      "code": "5202"
+    },
+    {
+      "name": "KNOXVILLE, TN",
+      "code": "2016"
+    },
+    {
+      "name": "KONA, HI",
+      "code": "3206"
+    },
+    {
+      "name": "LAKE CHARLES, LA",
+      "code": "2017"
+    },
+    {
+      "name": "LANCASTER, MN",
+      "code": "3430"
+    },
+    {
+      "name": "LAREDO, TX",
+      "code": "2304"
+    },
+    {
+      "name": "LAS VEGAS, NV",
+      "code": "2722"
+    },
+    {
+      "name": "LAURIER, WA",
+      "code": "3016"
+    },
+    {
+      "name": "LAWRENCE, MA",
+      "code": "0416"
+    },
+    {
+      "name": "LEESBURG REGIONAL AIRP, LEESBURG, FL",
+      "code": "1887"
+    },
+    {
+      "name": "L.G. HANSCOM FIELD, MA",
+      "code": "0481"
+    },
+    {
+      "name": "LIMESTONE, ME",
+      "code": "0118"
+    },
+    {
+      "name": "LITTLE ROCK, AR",
+      "code": "2003"
+    },
+    {
+      "name": "LOGAN AIRPORT, MA",
+      "code": "0417"
+    },
+    {
+      "name": "LONG BEACH, CA",
+      "code": "2709"
+    },
+    {
+      "name": "LONGVIEW, WA",
+      "code": "2905"
+    },
+    {
+      "name": "LORAIN, OH",
+      "code": "4121"
+    },
+    {
+      "name": "LOS ANGELES, CA",
+      "code": "2704"
+    },
+    {
+      "name": "LOS ANGELES INTERNATIONAL AIRPORT, CA",
+      "code": "2720"
+    },
+    {
+      "name": "LOUISVILLE, KY",
+      "code": "4115"
+    },
+    {
+      "name": "LOW-VALUE",
+      "code": "7000"
+    },
+    {
+      "name": "LUBBOCK, TX",
+      "code": "5503"
+    },
+    {
+      "name": "LUKEVILLE, AZ",
+      "code": "2602"
+    },
+    {
+      "name": "LYNDEN, WA",
+      "code": "3023"
+    },
+    {
+      "name": "MADAWASKA, ME",
+      "code": "0109"
+    },
+    {
+      "name": "MAIDA, ND",
+      "code": "3416"
+    },
+    {
+      "name": "MANCHESTER USER FEE AIRPORT, NH",
+      "code": "0182"
+    },
+    {
+      "name": "MANITOWOC, WI",
+      "code": "3706"
+    },
+    {
+      "name": "MARINETTE, WI",
+      "code": "3702"
+    },
+    {
+      "name": "MARQUETTE, MI",
+      "code": "3809"
+    },
+    {
+      "name": "MARTINEZ,CA",
+      "code": "2820"
+    },
+    {
+      "name": "MASSENA, NY",
+      "code": "0704"
+    },
+    {
+      "name": "MAYAGUEZ, PR",
+      "code": "4907"
+    },
+    {
+      "name": "MEADOWS FIELD AIRPORT, CA",
+      "code": "2786"
+    },
+    {
+      "name": "MELBOURNE REGIONAL AIRPORT, FL",
+      "code": "1885"
+    },
+    {
+      "name": "MELLVILLE, RI",
+      "code": "0503"
+    },
+    {
+      "name": "MEMPHIS, TN",
+      "code": "2006"
+    },
+    {
+      "name": "METALINE FALLS",
+      "code": "3025"
+    },
+    {
+      "name": "MIAMI INTL AIRPORT",
+      "code": "5206"
+    },
+    {
+      "name": "MIAMI, FL",
+      "code": "5201"
+    },
+    {
+      "name": "MIDAMERICAN AIRPORT, IL",
+      "code": "4581"
+    },
+    {
+      "name": "MIDLAND INTL AIRPORT, MIDLAND, TX",
+      "code": "5582"
+    },
+    {
+      "name": "MILWAUKEE, WI",
+      "code": "3701"
+    },
+    {
+      "name": "MINNEAPOLIS-ST. PAUL, MN",
+      "code": "3501"
+    },
+    {
+      "name": "MINOT AIRPORT, ND",
+      "code": "3434"
+    },
+    {
+      "name": "MOBILE, AL",
+      "code": "1901"
+    },
+    {
+      "name": "MONTEREY, CA",
+      "code": "2805"
+    },
+    {
+      "name": "MORGAN CITY, LA",
+      "code": "2001"
+    },
+    {
+      "name": "MORGAN, MT",
+      "code": "3319"
+    },
+    {
+      "name": "MORRISTOWN AIRPORT, NJ",
+      "code": "1081"
+    },
+    {
+      "name": "MORRO BAY, CA",
+      "code": "2719"
+    },
+    {
+      "name": "MUSKEGON, MI",
+      "code": "3815"
+    },
+    {
+      "name": "MYRTLE BEACH INTL AIRPORT, SC",
+      "code": "1681"
+    },
+    {
+      "name": "NACO, AZ",
+      "code": "2603"
+    },
+    {
+      "name": "NAPLES MUNICIPAL USER FEE AIRP, FL",
+      "code": "1880"
+    },
+    {
+      "name": "NASHVILLE, TN",
+      "code": "2007"
+    },
+    {
+      "name": "NAWILIWILI-PORT ALLEN,HI",
+      "code": "3204"
+    },
+    {
+      "name": "NECHE, ND",
+      "code": "3404"
+    },
+    {
+      "name": "NEW BEDFORD, MA",
+      "code": "0405"
+    },
+    {
+      "name": "NEW HAVEN, CT",
+      "code": "0412"
+    },
+    {
+      "name": "NEW LONDON, CT",
+      "code": "0413"
+    },
+    {
+      "name": "NEW ORLEANS, LA",
+      "code": "2002"
+    },
+    {
+      "name": "NEW RIVER VALLEY AIRPORT, VA",
+      "code": "1412"
+    },
+    {
+      "name": "NEW YORK, NY",
+      "code": "1001"
+    },
+    {
+      "name": "NEWARK, NJ",
+      "code": "1003"
+    },
+    {
+      "name": "NEWARK FEDEX ECCF, NJ",
+      "code": "1068"
+    },
+    {
+      "name": "NEWPORT, OR",
+      "code": "2902"
+    },
+    {
+      "name": "NEWPORT, RI",
+      "code": "0501"
+    },
+    {
+      "name": "NIGHTHAWK, WA",
+      "code": "3011"
+    },
+    {
+      "name": "NOGALES, AZ",
+      "code": "2604"
+    },
+    {
+      "name": "NOONAN, ND",
+      "code": "3420"
+    },
+    {
+      "name": "NORFOLK/MOBILE/CHARLESTON",
+      "code": "5901"
+    },
+    {
+      "name": "NORFOLK-NEWPORT NEWS, VA",
+      "code": "1401"
+    },
+    {
+      "name": "NORTHGATE, ND",
+      "code": "3406"
+    },
+    {
+      "name": "NORTON, VT",
+      "code": "0211"
+    },
+    {
+      "name": "NYACC, JAMAICA, NY",
+      "code": "1071"
+    },
+    {
+      "name": "OAKLAND, CA",
+      "code": "2811"
+    },
+    {
+      "name": "OAKLAND/PONTIAC AIRPORT",
+      "code": "3881"
+    },
+    {
+      "name": "OGDENSBURG, NY",
+      "code": "0701"
+    },
+    {
+      "name": "OKLAHOMA CITY, OK",
+      "code": "5504"
+    },
+    {
+      "name": "OLYMPIA, WA",
+      "code": "3026"
+    },
+    {
+      "name": "OMAHA, NE",
+      "code": "3512"
+    },
+    {
+      "name": "ONTARIO INTL AIRPORT, CA",
+      "code": "2721"
+    },
+    {
+      "name": "OPHEIM, MT",
+      "code": "3317"
+    },
+    {
+      "name": "ORANGE, TX",
+      "code": "2103"
+    },
+    {
+      "name": "ORLANDO EXECUTIVE AIRPORT, FL",
+      "code": "1888"
+    },
+    {
+      "name": "ORLANDO, FL",
+      "code": "1808"
+    },
+    {
+      "name": "ORLANDO-SANFORD AIRPORT, FL",
+      "code": "1809"
+    },
+    {
+      "name": "OROVILLE, WA",
+      "code": "3019"
+    },
+    {
+      "name": "OSWEGO, NY",
+      "code": "0904"
+    },
+    {
+      "name": "OTAY MESA",
+      "code": "2506"
+    },
+    {
+      "name": "OWENSBORO-EVANSVILLE, KY",
+      "code": "4116"
+    },
+    {
+      "name": "PANAMA CITY, FL",
+      "code": "1818"
+    },
+    {
+      "name": "PASCAGOULA, MS",
+      "code": "1903"
+    },
+    {
+      "name": "PEMBINA, ND",
+      "code": "3401"
+    },
+    {
+      "name": "PENSACOLA, FL",
+      "code": "1819"
+    },
+    {
+      "name": "PEORIA, IL",
+      "code": "3902"
+    },
+    {
+      "name": "PERTH AMBOY, NJ",
+      "code": "1004"
+    },
+    {
+      "name": "PHILA. INTL. AIRPORT, PA",
+      "code": "1108"
+    },
+    {
+      "name": "PHILADELPHIA, PA",
+      "code": "1101"
+    },
+    {
+      "name": "PHOENIX, AZ",
+      "code": "2605"
+    },
+    {
+      "name": "PIEGAN, MT",
+      "code": "3316"
+    },
+    {
+      "name": "PINECREEK, MN",
+      "code": "3425"
+    },
+    {
+      "name": "PITTSBURGH, PA",
+      "code": "1104"
+    },
+    {
+      "name": "PLYMOUTH, MA",
+      "code": "0406"
+    },
+    {
+      "name": "POINT ROBERTS, WA",
+      "code": "3017"
+    },
+    {
+      "name": "PONCE, PR",
+      "code": "4908"
+    },
+    {
+      "name": "PORT ANGELES, WA",
+      "code": "3007"
+    },
+    {
+      "name": "PORT ARTHUR, TX",
+      "code": "2101"
+    },
+    {
+      "name": "PORT CANAVERAL, FL",
+      "code": "1816"
+    },
+    {
+      "name": "PORT EVERGLADES, FL",
+      "code": "5203"
+    },
+    {
+      "name": "PORT HUENEME, CA",
+      "code": "2713"
+    },
+    {
+      "name": "PORT HURON, MI",
+      "code": "3802"
+    },
+    {
+      "name": "PORT LAVACA, TX",
+      "code": "5313"
+    },
+    {
+      "name": "PORT MANATEE, FL",
+      "code": "1821"
+    },
+    {
+      "name": "PORT TOWNSEND, WA",
+      "code": "3008"
+    },
+    {
+      "name": "PORTAL, ND",
+      "code": "3403"
+    },
+    {
+      "name": "PORTHILL, ID",
+      "code": "3308"
+    },
+    {
+      "name": "PORTLAND INTL AIRPORT, OR",
+      "code": "2910"
+    },
+    {
+      "name": "PORTLAND, ME",
+      "code": "0101"
+    },
+    {
+      "name": "PORTLAND, OR",
+      "code": "2904"
+    },
+    {
+      "name": "PORTSMOUTH, NH",
+      "code": "0131"
+    },
+    {
+      "name": "PRESIDIO, TX",
+      "code": "2403"
+    },
+    {
+      "name": "PRESQUE ISLE, MI",
+      "code": "3842"
+    },
+    {
+      "name": "PROGRESO, TX",
+      "code": "2309"
+    },
+    {
+      "name": "PROVIDENCE, RI",
+      "code": "0502"
+    },
+    {
+      "name": "RACINE, WI",
+      "code": "3708"
+    },
+    {
+      "name": "RAYMOND, MT",
+      "code": "3301"
+    },
+    {
+      "name": "REDWOOD CITY,CA",
+      "code": "2821"
+    },
+    {
+      "name": "RENO, NV",
+      "code": "2833"
+    },
+    {
+      "name": "RICHFORD, VT",
+      "code": "0203"
+    },
+    {
+      "name": "RICHMOND,CA",
+      "code": "2812"
+    },
+    {
+      "name": "RICHMOND-PETERSBURG, VA",
+      "code": "1404"
+    },
+    {
+      "name": "RIO GRANDE CITY, TX",
+      "code": "2307"
+    },
+    {
+      "name": "ROCHESTER USER FEE AIRP, ROCHESTER, MN",
+      "code": "3581"
+    },
+    {
+      "name": "ROCHESTER, NY",
+      "code": "0903"
+    },
+    {
+      "name": "ROCKFORD AIRPORT, IL",
+      "code": "3909"
+    },
+    {
+      "name": "ROCKLAND, ME",
+      "code": "0121"
+    },
+    {
+      "name": "ROGERS CITY, MI",
+      "code": "3818"
+    },
+    {
+      "name": "ROMA, TX",
+      "code": "2310"
+    },
+    {
+      "name": "ROOSVILLE, MT",
+      "code": "3318"
+    },
+    {
+      "name": "ROSEAU, MN",
+      "code": "3426"
+    },
+    {
+      "name": "SABINE, TX",
+      "code": "2102"
+    },
+    {
+      "name": "SACRAMENTO INT'L AIRPORT, CA",
+      "code": "2835"
+    },
+    {
+      "name": "SAGINAW/BAY CITY, MI",
+      "code": "3804"
+    },
+    {
+      "name": "SALEM, MA",
+      "code": "0408"
+    },
+    {
+      "name": "SALT LAKE CITY, UT",
+      "code": "3303"
+    },
+    {
+      "name": "SAN ANTONIO, TX",
+      "code": "5507"
+    },
+    {
+      "name": "SAN DIEGO, CA",
+      "code": "2501"
+    },
+    {
+      "name": "SAN FRANCISCO INTL ARPT, CA",
+      "code": "2801"
+    },
+    {
+      "name": "SAN FRANCISCO, CA",
+      "code": "2809"
+    },
+    {
+      "name": "SAN JOSE INTL AIRPORT, CA",
+      "code": "2834"
+    },
+    {
+      "name": "SAN JUAN INTL AIRPORT, PR",
+      "code": "4913"
+    },
+    {
+      "name": "SAN JUAN, PR",
+      "code": "4909"
+    },
+    {
+      "name": "SAN JUAQUIN RIVER,CA",
+      "code": "2828"
+    },
+    {
+      "name": "SAN LUIS, AZ",
+      "code": "2608"
+    },
+    {
+      "name": "SAN PABLO BAY,CA",
+      "code": "2829"
+    },
+    {
+      "name": "SAN YSIDRO",
+      "code": "2504"
+    },
+    {
+      "name": "SANTA TERESA AIRPORT, NM",
+      "code": "2481"
+    },
+    {
+      "name": "SANTA TERESA, NM",
+      "code": "2408"
+    },
+    {
+      "name": "SARASOTA BRADENTON ARPT, FL",
+      "code": "1883"
+    },
+    {
+      "name": "SARLES, ND",
+      "code": "3409"
+    },
+    {
+      "name": "SASABE, AZ",
+      "code": "2606"
+    },
+    {
+      "name": "SAULT STE. MARIE, MI",
+      "code": "3803"
+    },
+    {
+      "name": "SAVANNAH, GA",
+      "code": "1703"
+    },
+    {
+      "name": "SCOBY, MT",
+      "code": "3309"
+    },
+    {
+      "name": "SEARSPORT, ME",
+      "code": "0152"
+    },
+    {
+      "name": "SEATTLE, WA",
+      "code": "3001"
+    },
+    {
+      "name": "SEATTLE-TACOMA INTL ARPT",
+      "code": "3029"
+    },
+    {
+      "name": "SELBY,CA",
+      "code": "2827"
+    },
+    {
+      "name": "SHERWOOD, ND",
+      "code": "3414"
+    },
+    {
+      "name": "SHREVEPORT/BOSSIER CITY, LA",
+      "code": "2018"
+    },
+    {
+      "name": "SIOUX FALLS, S.D.",
+      "code": "3502"
+    },
+    {
+      "name": "SITKA, AK",
+      "code": "3115"
+    },
+    {
+      "name": "SKAGWAY, AK",
+      "code": "3103"
+    },
+    {
+      "name": "SODUS POINT, NY",
+      "code": "0905"
+    },
+    {
+      "name": "SPOKANE, WA",
+      "code": "3022"
+    },
+    {
+      "name": "SPRINGFIELD, MA",
+      "code": "0402"
+    },
+    {
+      "name": "SPRINGFIELD, MO",
+      "code": "4505"
+    },
+    {
+      "name": "ST JOHN, ND",
+      "code": "3405"
+    },
+    {
+      "name": "ST JOSEPH, MO",
+      "code": "4502"
+    },
+    {
+      "name": "ST LOUIS, MO",
+      "code": "4503"
+    },
+    {
+      "name": "ST. ALBANS, VT",
+      "code": "0201"
+    },
+    {
+      "name": "ST. AUGUSTINE AIRPORT, FL",
+      "code": "1889"
+    },
+    {
+      "name": "ST. PETERSBURG, FL",
+      "code": "1814"
+    },
+    {
+      "name": "ST. THOMAS VI BORDER PATROL",
+      "code": "4952"
+    },
+    {
+      "name": "STOCKTON, CA",
+      "code": "2810"
+    },
+    {
+      "name": "SUGAR LAND REG AIRP, SUGAR LAND, TX",
+      "code": "5381"
+    },
+    {
+      "name": "SUMAS, WA",
+      "code": "3009"
+    },
+    {
+      "name": "SWEETGRASS, MT",
+      "code": "3310"
+    },
+    {
+      "name": "SYRACUSE, NY",
+      "code": "0906"
+    },
+    {
+      "name": "TACOMA, WA",
+      "code": "3002"
+    },
+    {
+      "name": "TAMPA, FL",
+      "code": "1801"
+    },
+    {
+      "name": "TECATE, CA",
+      "code": "2505"
+    },
+    {
+      "name": "TEXAS CITY, TX",
+      "code": "5306"
+    },
+    {
+      "name": "TNT EXPRESS CONSIGNMENT, CHICAGO, IL",
+      "code": "3971"
+    },
+    {
+      "name": "TNT EXPRESS, LAX, CA",
+      "code": "2775"
+    },
+    {
+      "name": "TNT SKYPAK, JAMAICA, NY",
+      "code": "1078"
+    },
+    {
+      "name": "TOLEDO-SANDUSKY, OH",
+      "code": "4105"
+    },
+    {
+      "name": "TRENTON/MERCER COUNTY AIRPORT, NJ",
+      "code": "1183"
+    },
+    {
+      "name": "TRI-CITIES AIRPORT, TN",
+      "code": "2027"
+    },
+    {
+      "name": "TROUT RIVER, NY",
+      "code": "0715"
+    },
+    {
+      "name": "TUCSON, AZ",
+      "code": "2609"
+    },
+    {
+      "name": "TULSA, OK",
+      "code": "5505"
+    },
+    {
+      "name": "TURNER, MT",
+      "code": "3306"
+    },
+    {
+      "name": "UFA UI WILLARD AIRPORT, SAVOY, IL",
+      "code": "3987"
+    },
+    {
+      "name": "UPS COURIER",
+      "code": "4196"
+    },
+    {
+      "name": "UPS, ANCHORAGE, AK",
+      "code": "3196"
+    },
+    {
+      "name": "UPS, MIAMI, FL",
+      "code": "5295"
+    },
+    {
+      "name": "UPS, SEATTLE, WA",
+      "code": "3095"
+    },
+    {
+      "name": "UPS, NEWARK, NJ",
+      "code": "1069"
+    },
+    {
+      "name": "UPS, PHILADELPHIA, PA",
+      "code": "1195"
+    },
+    {
+      "name": "UPS, SEATTLE, WA",
+      "code": "3071"
+    },
+    {
+      "name": "UPS-ONTARIO, CA",
+      "code": "2795"
+    },
+    {
+      "name": "VALLEY INTL AIRPORT, HARLINGEN, TX",
+      "code": "2383"
+    },
+    {
+      "name": "VAN BUREN, ME",
+      "code": "0108"
+    },
+    {
+      "name": "VANCEBORO, ME",
+      "code": "0105"
+    },
+    {
+      "name": "VANCOUVER, WA",
+      "code": "2908"
+    },
+    {
+      "name": "VENTURA, CA",
+      "code": "2712"
+    },
+    {
+      "name": "VICKSBURG, MS",
+      "code": "2015"
+    },
+    {
+      "name": "WALHALLA, ND",
+      "code": "3407"
+    },
+    {
+      "name": "WARROAD, MN",
+      "code": "3423"
+    },
+    {
+      "name": "WASHINGTON, DC",
+      "code": "5401"
+    },
+    {
+      "name": "WEST PALM BEACH, FL",
+      "code": "5204"
+    },
+    {
+      "name": "WESTHOPE, ND",
+      "code": "3419"
+    },
+    {
+      "name": "WHITLASH, MT",
+      "code": "3321"
+    },
+    {
+      "name": "WICHITA, KS",
+      "code": "4504"
+    },
+    {
+      "name": "WILDHORSE, MT",
+      "code": "3323"
+    },
+    {
+      "name": "WILKES-BARRE/SCRANTON, PA",
+      "code": "1106"
+    },
+    {
+      "name": "WILLISTON AIRPORT, ND",
+      "code": "3433"
+    },
+    {
+      "name": "WILLOW RUN AIRPORT, YPSILANTI, MI",
+      "code": "3882"
+    },
+    {
+      "name": "WILMINGTON, DE",
+      "code": "1103"
+    },
+    {
+      "name": "WILMINGTON, NC",
+      "code": "1501"
+    },
+    {
+      "name": "WINSTON-SALEM, NC",
+      "code": "1502"
+    },
+    {
+      "name": "WORCESTER, MA",
+      "code": "0403"
+    },
+    {
+      "name": "WRANGELL, AK",
+      "code": "3105"
+    },
+    {
+      "name": "YSLETA, TX",
+      "code": "2401"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+tmp/
+.cache/
+test-results/
+.DS_Store
+submission/
+submission.zip
+output/ai-chat-history.json
+output/ai-chat-history-full.*

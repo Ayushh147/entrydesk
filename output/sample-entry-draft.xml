@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DRAFT - unresolved issues remain. Some required fields are omitted; six-digit HS codes are not full US classifications. No automatic customs transmission is requested. -->
+<entry xmlns="http://www.netchb.com/xml/entry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.netchb.com/xml/entry https://www.netchb.com/xml/entry/entry.xsd">
+  <entry-no>
+    <system-generated/>
+  </entry-no>
+  <external-reference-number>KBAS/NB/26-0912</external-reference-number>
+  <header>
+    <mode-transportation>11</mode-transportation>
+    <unlading-port>3002</unlading-port>
+    <state-destination>WA</state-destination>
+    <charges>4035</charges>
+    <gross-weight>1930</gross-weight>
+    <vessel-name>PACIFIC ARGOS</vessel-name>
+    <voyage-no>041E</voyage-no>
+    <carrier-code>OPLU</carrier-code>
+    <customer-reference-no>NB-26-0918</customer-reference-no>
+  </header>
+  <manifest>
+    <bill-of-lading>
+      <master-bill>OPLUSGN260917735</master-bill>
+      <house-bill>BMLVHCM26090418</house-bill>
+      <quantity>138</quantity>
+      <unit>CTN</unit>
+    </bill-of-lading>
+  </manifest>
+  <invoices>
+    <invoice>
+      <invoice-no>KBAS-NB-26-0912</invoice-no>
+      <line-items>
+        <line-item>
+          <export-date>2026-09-24</export-date>
+          <country-origin>VN</country-origin>
+          <tariffs>
+            <tariff>
+              <tariff-no>610910</tariff-no>
+              <value>6480.00</value>
+            </tariff>
+          </tariffs>
+          <country-export>VN</country-export>
+          <gross-weight>480</gross-weight>
+          <commercial-description>NB-T101: MEN&apos;S CREW NECK SHORT SLEEVE T-SHIRT; 100% Cotton single jersey, 160 GSM, knitted</commercial-description>
+          <invoice-quantity>2400</invoice-quantity>
+          <part-number>NB-T101</part-number>
+        </line-item>
+        <line-item>
+          <export-date>2026-09-24</export-date>
+          <country-origin>VN</country-origin>
+          <tariffs>
+            <tariff>
+              <tariff-no>611020</tariff-no>
+              <value>8880.00</value>
+            </tariff>
+          </tariffs>
+          <country-export>VN</country-export>
+          <gross-weight>774</gross-weight>
+          <commercial-description>NB-H205: WOMEN&apos;S PULLOVER HOODIE W/ KANGAROO POCKET; 60% Cotton 40% Polyester brushed fleece, 280 GSM, knitted</commercial-description>
+          <invoice-quantity>1200</invoice-quantity>
+          <part-number>NB-H205</part-number>
+        </line-item>
+        <line-item>
+          <export-date>2026-09-24</export-date>
+          <country-origin>VN</country-origin>
+          <tariffs>
+            <tariff>
+              <tariff-no>620342</tariff-no>
+              <value>6255.00</value>
+            </tariff>
+          </tariffs>
+          <country-export>VN</country-export>
+          <gross-weight>522</gross-weight>
+          <commercial-description>NB-C330: MEN&apos;S SLIM FIT CHINO TROUSERS; 98% Cotton 2% Elastane stretch twill, 245 GSM, woven</commercial-description>
+          <invoice-quantity>900</invoice-quantity>
+          <part-number>NB-C330</part-number>
+        </line-item>
+        <line-item>
+          <export-date>2026-09-24</export-date>
+          <country-origin>VN</country-origin>
+          <tariffs>
+            <tariff>
+              <tariff-no>620640</tariff-no>
+              <value>5440.00</value>
+            </tariff>
+          </tariffs>
+          <country-export>VN</country-export>
+          <gross-weight>106</gross-weight>
+          <commercial-description>W-B220: WOMEN&apos;S LONG SLEEVE BLOUSE, V-NECK; 100% Polyester crepe de chine, woven</commercial-description>
+          <invoice-quantity>600</invoice-quantity>
+          <part-number>W-B220</part-number>
+        </line-item>
+        <line-item>
+          <export-date>2026-09-24</export-date>
+          <country-origin>BD</country-origin>
+          <tariffs>
+            <tariff>
+              <tariff-no>610610</tariff-no>
+              <value>24.00</value>
+            </tariff>
+          </tariffs>
+          <country-export>VN</country-export>
+          <gross-weight>6</gross-weight>
+          <commercial-description>NB-P118S: WOMEN&apos;S SHORT SLEEVE POLO SHIRT - SAMPLES; 100% Cotton pique, knitted</commercial-description>
+          <invoice-quantity>24</invoice-quantity>
+          <part-number>NB-P118S</part-number>
+        </line-item>
+      </line-items>
+    </invoice>
+  </invoices>
+</entry>
